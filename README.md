@@ -7,16 +7,7 @@
 <br>
 
 <div align="left">
-  <p>Mobile</p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java&theme=dark" />
-  <p>Front-End</p>
-  <img src="https://skillicons.dev/icons?i=react,figma,javascript,html,css&theme=dark" />
-  <p>Back-End</p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,supabase,firebase,javascript,typescript,laravel&theme=dark" />
-  <p>ML</p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <p>Others</p>
-  <img src="https://skillicons.dev/icons?i=ae,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,react,figma,html,css,python,nodejs,supabase,firebase,javascript,typescript,laravel,ae,ps,ai&theme=dark&perline=9" />
 </div>
 <br>
 
